@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anshuman Maitra
 - I am an AI/ML Developer and Currently learning Advanced Deep Learning concepts .
-- I am also well versed with multiple languages like Java , C++ , C , Python , JavaScript , PHP , HTML and CSS . kind of done some contribution in Frontend Web Development and Curently Learning React.js  
+- I am also well versed with multiple languages like Java , C++ , C , Python , JavaScript , PHP , HTML and CSS . kind of done some contribution in Frontend Web Development and Curently Learning React.js
+- Recently I have also brushed up my previously done FIGMA works ...... #UI/UX ... I will start to create the UI/UX works of mineself in github 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DevDynastyIA ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-maitra-10a60b92 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anshumanmaitra4784) 
 
